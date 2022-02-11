@@ -2,7 +2,7 @@
 //  AcronymsDemoApp.swift
 //  AcronymsDemo
 //
-//  Created by gomathi saminathan on 2/10/22.
+//  Created by Rajendran Eshwaran on 2/10/22.
 //
 
 import SwiftUI
